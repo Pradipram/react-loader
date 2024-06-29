@@ -20,6 +20,12 @@ npm i @p__radip/react-loader
 yarn add @p__radip/react-loader
 ```
 
+## Screenshots
+
+[![Infinity Loader Demo](https://github.com/Pradipram/react-loader/assets/101059602/391cdae9-01fe-407a-8529-9bb739bf9de8)](https://github.com/Pradipram/react-loader/assets/101059602/7d9228c2-52ed-493c-a6f0-b97c0a12b22c)
+
+[Watch the demo video](https://github.com/Pradipram/react-loader/assets/101059602/7d9228c2-52ed-493c-a6f0-b97c0a12b22c)
+
 ## Usage
 
 ```javascript
