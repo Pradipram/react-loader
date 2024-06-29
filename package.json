@@ -1,6 +1,6 @@
 {
     "name": "@p__radip/react-loader",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A lightweight and customizable React component for displaying loading spinners and progress indicators, helping you enhance user experience by providing visual feedback during asynchronous operations.",
     "main": "dist/index.js",
     "repository": "https://github.com/Pradipram/react-loader.git",
